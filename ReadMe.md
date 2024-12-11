@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I am a software engineer student<br>📚 my knowledge:<br>- Frontend: NextJs, ReactJs<br>- Backend: NestJs<br>- Database: MySql, Postgres, Firebase<br><br>
+👨‍🎓 I am a software engineer student<br>📚 my knowledge:<br>- Frontend: NextJs, ReactJs<br>- Backend: NestJs, JavaSpring<br>- Database: MySql, Postgres, Firebase<br><br>
 
 
 ## 🌐 Socials:
